@@ -1002,7 +1002,7 @@ background-color: inherit;
 }
 .coloured {
     color: #FFFFFF;
-    background-color: #1f3692f5;
+    background-color: #070d24f5;
 }
 .coloured .btn,
 .coloured .btn.inverse:hover {
@@ -1013,8 +1013,8 @@ background-color: inherit;
 .btn,
 .btn.inverse:hover {
     color: #FFFFFF;
-    background-color: #1f3692f5;
-    border-color: #1f3692f5;
+    background-color: #070d24f5;
+    border-color: #070d24f5;
 }
 .btn:hover,
 .btn.inverse {
@@ -1027,7 +1027,7 @@ background-color: inherit;
 .row0,
 .row0 a {
     color: #FFFFFF;
-    background-color: #1f3692f5;
+    background-color: #070d24f5;
 }
 .row1 {
     color: #000000;
@@ -1064,11 +1064,11 @@ background-color: inherit;
     border-color: #F2F2F2;
 }
 #header section input:focus {
-    border-color: #1f3692f5;
+    border-color: #070d24f5;
 }
 #header section button {
     color: #FFFFFF;
-    background-color: #1f3692f5;
+    background-color: #070d24f5;
 }
 #header #mainav {
     border-color: rgba(0,
@@ -1088,7 +1088,7 @@ background-color: inherit;
     color: inherit;
 }
 .services article:hover a {
-    color: #1f3692f5;
+    color: #070d24f5;
 }
 .testimonials blockquote {
     color: #7A7A7A;
@@ -1129,11 +1129,11 @@ background-color: inherit;
     background-color: #F7F7F7;
 }
 #footer input:focus {
-    border-color: #1f3692f5;
+    border-color: #070d24f5;
 }
 #footer button {
     color: #FFFFFF;
-    background-color: #1f3692f5;
+    background-color: #070d24f5;
 }
 
 /* Navigation */
@@ -1143,7 +1143,7 @@ background-color: inherit;
 #mainav .active a,
 #mainav a:hover,
 #mainav li:hover>a {
-    color: #1f3692f5;
+    color: #070d24f5;
     background-color: inherit;
 }
 #mainav li li a,
@@ -1161,7 +1161,7 @@ background-color: inherit;
 #mainav li li:hover>a,
 #mainav .active .active>a {
     color: #FFFFFF;
-    background-color: #1f3692f5;
+    background-color: #070d24f5;
 }
 #mainav form select {
     color: #FFFFFF;
@@ -1182,14 +1182,14 @@ background-color: inherit;
     background-color: inherit;
 }
 #breadcrumb li:last-child a {
-    color: #1f3692f5;
+    color: #070d24f5;
 }
 .container .sidebar nav a {
     color: inherit;
     border-color: #D7D7D7;
 }
 .container .sidebar nav a:hover {
-    color: #1f3692f5;
+    color: #070d24f5;
 }
 .pagination a,
 .pagination strong {
@@ -1197,11 +1197,11 @@ background-color: inherit;
 }
 .pagination .current * {
     color: #FFFFFF;
-    background-color: #1f3692f5;
+    background-color: #070d24f5;
 }
 #backtotop {
     color: #FFFFFF;
-    background-color: #1f3692f5;
+    background-color: #070d24f5;
 }
 
 /* Tables + Comments */
@@ -1216,7 +1216,7 @@ td,
 #comments input:focus,
 #comments textarea:focus,
 #comments *:required:focus {
-    border-color: #1f3692f5;
+    border-color: #070d24f5;
 }
 th {
     color: #FFFFFF;
@@ -1407,7 +1407,7 @@ table a,
     }
 }
 .maps {
-    border: 2px solid #1f3692f5;
+    border: 2px solid #070d24f5;
     background: #0e1b4ef5;
     max-width: 100%;
     margin-top: 30px;
